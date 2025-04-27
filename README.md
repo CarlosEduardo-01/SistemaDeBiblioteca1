@@ -69,13 +69,4 @@ Este projeto foi desenvolvido para demonstrar na prática:
 
 4- Lógica de negócios para gestão de biblioteca
 
-📝 Exemplo de Uso
-csharp
-// Criando um livro
-var livro = new Livro(1, "Clean Code", "Robert C. Martin", "978-0132350884", "Programação");
 
-// Cadastrando um membro
-var membro = new Membro(1, "João Silva", "joao@email.com");
-
-// Realizando empréstimo
-var emprestimo = new Emprestimo(1, livro, membro);
