@@ -1,58 +1,63 @@
-📚 Sistema de Gerenciamento de Biblioteca em C#
-Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este projeto foi desenvolvido como um exemplo prático de como implementar conceitos fundamentais de programação orientada a objetos em C#, como herança, polimorfismo e abstração, em um contexto real de gestão de biblioteca.
+  📚 Sistema de Gerenciamento de Biblioteca em C#
+
+
+   Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este projeto foi desenvolvido como um exemplo prático de como implementar conceitos fundamentais de programação orientada a objetos em C#, como herança, polimorfismo e abstração, em um contexto real de gestão de biblioteca.
 
 ✨ Funcionalidades Principais
 Cadastro inteligente de itens:
 
-Livros com todos os detalhes (autor, ISBN, gênero)
+- Livros com todos os detalhes (autor, ISBN, gênero)
 
-Revistas com informações completas (editora, edição)
+- Revistas com informações completas (editora, edição)
 
-Gestão de membros:
+- Gestão de membros:
 
-Cadastro simples de usuários
+- Cadastro simples de usuários
 
-Histórico completo de empréstimos
+- Histórico completo de empréstimos
 
-Sistema de empréstimos:
+- Sistema de empréstimos:
 
-Controle automático de disponibilidade
+- Controle automático de disponibilidade
 
-Registro preciso de datas
+- Registro preciso de datas
 
-Devolução simplificada
+- Devolução simplificada
 
 🛠️ Tecnologias e Conceitos Utilizados
 C# como linguagem principal
 
 POO com:
 
-Herança (ItemBiblioteca → Livro/Revista)
+- Herança (ItemBiblioteca → Livro/Revista)
 
-Polimorfismo (método MostrarDetalhes())
+- Polimorfismo (método MostrarDetalhes())
 
-Abstração (classe base abstrata)
+- Abstração (classe base abstrata)
 
-Listas genéricas para armazenamento de dados
+- Listas genéricas para armazenamento de dados
 
-Console Application para interface simples
+- Console Application para interface simples
 
-🚀 Como Executar o Projeto
-1- Pré-requisitos:
+   🚀 Como Executar o Projeto
 
-.NET SDK instalado
+   1- Pré-requisitos:
 
-Editor de código (VS Code, Visual Studio, etc.)
+  - .NET SDK instalado
 
-2- Clonar o repositório:
+  - Editor de código (VS Code, Visual Studio, etc.)
 
-bash
-git clone https://github.com/seu-usuario/sistema-biblioteca-csharp.git
-cd sistema-biblioteca-csharp
+   2- Clonar o repositório:
+
+      bash
+      git clone https://github.com/CarlosEduardo-01/SistemaDeBiblioteca1.git
+
+      cd SistemaDeBiblioteca1
 3- Executar:
 
-bash
-dotnet run
+      bash
+      dotnet run
+
 🧠 Aprendizados Implementados
 Este projeto foi desenvolvido para demonstrar na prática:
 
