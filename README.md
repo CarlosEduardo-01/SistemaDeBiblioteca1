@@ -1,9 +1,9 @@
-  📚 Sistema de Gerenciamento de Biblioteca em C#
+##  📚 Sistema de Gerenciamento de Biblioteca em C#
 
 
    Bem-vindo ao Sistema de Gerenciamento de Biblioteca! Este projeto foi desenvolvido como um exemplo prático de como implementar conceitos fundamentais de programação orientada a objetos em C#, como herança, polimorfismo e abstração, em um contexto real de gestão de biblioteca.
 
-✨ Funcionalidades Principais
+## ✨ Funcionalidades Principais
 Cadastro inteligente de itens:
 
 - Livros com todos os detalhes (autor, ISBN, gênero)
@@ -24,7 +24,7 @@ Cadastro inteligente de itens:
 
 - Devolução simplificada
 
-🛠️ Tecnologias e Conceitos Utilizados
+## 🛠️ Tecnologias e Conceitos Utilizados
 C# como linguagem principal
 
 POO com:
@@ -39,7 +39,7 @@ POO com:
 
 - Console Application para interface simples
 
-   🚀 Como Executar o Projeto
+  ## 🚀 Como Executar o Projeto
 
    1- Pré-requisitos:
 
@@ -53,12 +53,12 @@ POO com:
       git clone https://github.com/CarlosEduardo-01/SistemaDeBiblioteca1.git
 
       cd SistemaDeBiblioteca1
-3- Executar:
+  3- Executar:
 
       bash
       dotnet run
 
-🧠 Aprendizados Implementados
+## 🧠 Aprendizados Implementados
 Este projeto foi desenvolvido para demonstrar na prática:
 
 1- Organização de código com classes bem definidas
